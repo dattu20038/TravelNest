@@ -9,7 +9,6 @@ const Footer = () => {
           <li className="fListItem">Regions</li>
           <li className="fListItem">Cities</li>
           <li className="fListItem">Districts</li>
-          <li className="fListItem">Airports</li>
           <li className="fListItem">Hotels</li>
         </ul>
         <ul className="fList">
@@ -28,8 +27,7 @@ const Footer = () => {
           <li className="fListItem">Seasonal and holiday deals </li>
         </ul>
         <ul className="fList">
-          <li className="fListItem">Car rental </li>
-          <li className="fListItem">Flight Finder</li>
+          
           <li className="fListItem">Restaurant reservations </li>
           <li className="fListItem">Travel Agents </li>
         </ul>
@@ -38,13 +36,10 @@ const Footer = () => {
           <li className="fListItem">Partner Help</li>
           <li className="fListItem">Careers</li>
           <li className="fListItem">Sustainability</li>
-          <li className="fListItem">Press center</li>
-          <li className="fListItem">Safety Resource Center</li>
-          <li className="fListItem">Investor relations</li>
-          <li className="fListItem">Terms & conditions</li>
+          
         </ul>
       </div>
-      <div className="fText">Copyright © 2022 Lamabooking.</div>
+      <div className="fText">Copyright © 2024 TravelNest.</div>
     </div>
   );
 };
