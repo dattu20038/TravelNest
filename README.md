@@ -29,7 +29,7 @@ To run TravelNest locally, follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/dattu20038/travelnest.git
+git clone https://github.com/dattu20038/TravelNest.git
 cd travelnest
 ```
 
